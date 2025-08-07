@@ -1,0 +1,104 @@
+[
+  {
+    "date": "June 17, 2025",
+    "duration": "10 Min",
+    "tags": [
+      {
+        "tag": "Chemistry Basics",
+        "color": "#B03B23"
+      },
+      {
+        "tag": "Green Chemistry",
+        "color": "#F99D1C"
+      }
+    ],
+    "image": "/images/recent-news-image-1.png",
+    "title": "Lorem Ipsum is simply dummy text of the printing.",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+  },
+  {
+    "date": "June 17, 2025",
+    "duration": "10 Min",
+    "tags": [
+      {
+        "tag": "Chemistry Basics",
+        "color": "#B03B23"
+      },
+      {
+        "tag": "Green Chemistry",
+        "color": "#F99D1C"
+      }
+    ],
+    "image": "/images/recent-news-image-2.png",
+    "title": "Lorem Ipsum is simply dummy text of the printing.",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+  },
+  {
+    "date": "June 17, 2025",
+    "duration": "10 Min",
+    "tags": [
+      {
+        "tag": "Chemistry Basics",
+        "color": "#B03B23"
+      },
+      {
+        "tag": "Green Chemistry",
+        "color": "#F99D1C"
+      }
+    ],
+    "image": "/images/recent-news-image-3.png",
+    "title": "Lorem Ipsum is simply dummy text of the printing.",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+  },
+  {
+    "date": "June 17, 2025",
+    "duration": "10 Min",
+    "tags": [
+      {
+        "tag": "Chemistry Basics",
+        "color": "#B03B23"
+      },
+      {
+        "tag": "Green Chemistry",
+        "color": "#F99D1C"
+      }
+    ],
+    "image": "/images/recent-news-image-1.png",
+    "title": "Lorem Ipsum is simply dummy text of the printing.",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+  },
+  {
+    "date": "June 17, 2025",
+    "duration": "10 Min",
+    "tags": [
+      {
+        "tag": "Chemistry Basics",
+        "color": "#B03B23"
+      },
+      {
+        "tag": "Green Chemistry",
+        "color": "#F99D1C"
+      }
+    ],
+    "image": "/images/recent-news-image-2.png",
+    "title": "Lorem Ipsum is simply dummy text of the printing.",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+  },
+  {
+    "date": "June 17, 2025",
+    "duration": "10 Min",
+    "tags": [
+      {
+        "tag": "Chemistry Basics",
+        "color": "#B03B23"
+      },
+      {
+        "tag": "Green Chemistry",
+        "color": "#F99D1C"
+      }
+    ],
+    "image": "/images/recent-news-image-3.png",
+    "title": "Lorem Ipsum is simply dummy text of the printing.",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+  }
+]

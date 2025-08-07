@@ -1,0 +1,62 @@
+{
+  "homeStatistics": [
+    {
+      "icon": "employees",
+      "type": "regular",
+      "value": 150,
+      "unit": "",
+      "label": "Satisfied Customers"
+    },
+    {
+      "icon": "boxes",
+      "type": "regular",
+      "value": 450,
+      "unit": "",
+      "label": "Commercialized Products"
+    },
+    {
+      "icon": "flag",
+      "type": "regular",
+      "value": 25,
+      "unit": "",
+      "label": "Market Presence in Countries"
+    },
+    {
+      "icon": "diploma",
+      "type": "regular",
+      "value": 11,
+      "unit": "",
+      "label": "Applied Patents"
+    }
+  ],
+  "aboutStatistics": [
+    {
+      "icon": "employees",
+      "type": "regular",
+      "value": 500,
+      "unit": "",
+      "label": "Global Customers"
+    },
+    {
+      "icon": "boxes",
+      "type": "regular",
+      "value": 450,
+      "unit": "",
+      "label": "Active Products"
+    },
+    {
+      "icon": "skill-alt",
+      "type": "regular",
+      "value": 775,
+      "unit": "",
+      "label": "Skilled Professionals"
+    },
+    {
+      "icon": "diploma",
+      "type": "regular",
+      "value": 21,
+      "unit": "Years",
+      "label": "Proven Expertise"
+    }
+  ]
+}

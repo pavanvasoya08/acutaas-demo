@@ -1,0 +1,587 @@
+{
+  "navbar": [
+    {
+      "label": "Home",
+      "href": "/",
+      "hasSubmenu": false
+    },
+    {
+      "label": "About Us",
+      "href": "/ab",
+      "hasSubmenu": false
+    },
+    {
+      "label": "Products & Services",
+      "href": "/ps",
+      "hasSubmenu": false
+    },
+    {
+      "label": "Capabilities",
+      "href": "/ca",
+      "hasSubmenu": false
+    },
+    {
+      "label": "Sustainability",
+      "href": "/su",
+      "hasSubmenu": false
+    },
+    {
+      "label": "Investor",
+      "href": "#",
+      "hasSubmenu": true,
+      "submenuItems": [
+        {
+          "label": "Disclosure under Reg 46 of SEBI LODR",
+          "hasSubmenu": true,
+          "submenuItems": [
+            {
+              "label": "Details of Business",
+              "hasSubmenu": true,
+              "submenuItems": [
+                {
+                  "label": "About Us",
+                  "href": "/investors/reg-46-disclosure/details-of-business/about-us"
+                }
+              ]
+            },
+            {
+              "label": "Memorandum of Association & Articles of Association",
+              "href": "/investors/reg-46-disclosure/memorandum-articles-association"
+            },
+            {
+              "label": "Brief profile of Board of Directors",
+              "hasSubmenu": true,
+              "submenuItems": [
+                {
+                  "label": "Leadership Team",
+                  "href": "/investors/reg-46-disclosure/board-of-directors/leadership-team"
+                }
+              ]
+            },
+            {
+              "label": "Terms and conditions of appointment of Independent Directors",
+              "href": "/investors/reg-46-disclosure/independent-directors/terms-conditions"
+            },
+            {
+              "label": "Composition of various Committees of Board of Directors",
+              "href": "/investors/reg-46-disclosure/board-committees/composition"
+            },
+            {
+              "label": "Code of Conduct of Board of Directors & Senior Management Personnel",
+              "href": "/investors/reg-46-disclosure/code-of-conduct"
+            },
+            {
+              "label": "Vigil Mechanism / Whistle Blower Policy",
+              "href": "/investors/reg-46-disclosure/vigil-mechanism"
+            },
+            {
+              "label": "Criteria of making payments to Non - Executive Directors",
+              "href": "/investors/reg-46-disclosure/non-executive-director-payments"
+            },
+            {
+              "label": "Policy on dealing with Related Party Transactions",
+              "href": "/investors/reg-46-disclosure/related-party-transactions"
+            },
+            {
+              "label": "Policy for determining Material Subsidiaries",
+              "href": "/investors/reg-46-disclosure/material-subsidiaries-policy"
+            },
+            {
+              "label": "Familiarization Programme imparted to Independent Directors",
+              "href": "/investors/reg-46-disclosure/familiarization-programme"
+            },
+            {
+              "label": "Grievance Redressal Details",
+              "hasSubmenu": true,
+              "submenuItems": [
+                {
+                  "label": "Grievance Redressal",
+                  "href": "/investors/reg-46-disclosure/grievance-redressal"
+                }
+              ]
+            },
+            {
+              "label": "Other Corporate Policies",
+              "hasSubmenu": true,
+              "submenuItems": [
+                {
+                  "label": "List of Policies",
+                  "href": "/investors/reg-46-disclosure/corporate-policies/list"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Financial Information",
+          "hasSubmenu": true,
+          "submenuItems": [
+            {
+              "label": "Quarterly Results",
+              "hasSubmenu": true,
+              "submenuItems": [
+                {
+                  "label": "FY 2024-25",
+                  "hasSubmenu": true,
+                  "submenuItems": [
+                    {
+                      "label": "Q1",
+                      "hasSubmenu": true,
+                      "submenuItems": [
+                        {
+                          "label": "Notice of Board Meeting",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q1/notice-board-meeting"
+                        },
+                        {
+                          "label": "Earnings Call Intimation",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q1/earnings-call-intimation"
+                        },
+                        {
+                          "label": "Unaudited Quarterly Results",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q1/unaudited-results"
+                        },
+                        {
+                          "label": "Investors Presentation",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q1/investors-presentation"
+                        },
+                        {
+                          "label": "Investors Press Release",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q1/press-release"
+                        },
+                        {
+                          "label": "Earnings Call Recording",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q1/earnings-call-recording"
+                        },
+                        {
+                          "label": "Earnings Call Transcript",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q1/earnings-call-transcript"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Q2",
+                      "hasSubmenu": true,
+                      "submenuItems": [
+                        {
+                          "label": "Notice of Board Meeting",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q2/notice-board-meeting"
+                        },
+                        {
+                          "label": "Earnings Call Intimation",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q2/earnings-call-intimation"
+                        },
+                        {
+                          "label": "Unaudited Quarterly Results",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q2/unaudited-results"
+                        },
+                        {
+                          "label": "Investors Presentation",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q2/investors-presentation"
+                        },
+                        {
+                          "label": "Investors Press Release",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q2/press-release"
+                        },
+                        {
+                          "label": "Earnings Call Recording",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q2/earnings-call-recording"
+                        },
+                        {
+                          "label": "Earnings Call Transcript",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q2/earnings-call-transcript"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Q3",
+                      "hasSubmenu": true,
+                      "submenuItems": [
+                        {
+                          "label": "Notice of Board Meeting",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q3/notice-board-meeting"
+                        },
+                        {
+                          "label": "Earnings Call Intimation",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q3/earnings-call-intimation"
+                        },
+                        {
+                          "label": "Unaudited Quarterly Results",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q3/unaudited-results"
+                        },
+                        {
+                          "label": "Investors Presentation",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q3/investors-presentation"
+                        },
+                        {
+                          "label": "Investors Press Release",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q3/press-release"
+                        },
+                        {
+                          "label": "Earnings Call Recording",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q3/earnings-call-recording"
+                        },
+                        {
+                          "label": "Earnings Call Transcript",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q3/earnings-call-transcript"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Q4",
+                      "hasSubmenu": true,
+                      "submenuItems": [
+                        {
+                          "label": "Notice of Board Meeting",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q4/notice-board-meeting"
+                        },
+                        {
+                          "label": "Earnings Call Intimation",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q4/earnings-call-intimation"
+                        },
+                        {
+                          "label": "Unaudited Quarterly Results",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q4/unaudited-results"
+                        },
+                        {
+                          "label": "Investors Presentation",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q4/investors-presentation"
+                        },
+                        {
+                          "label": "Investors Press Release",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q4/press-release"
+                        },
+                        {
+                          "label": "Earnings Call Recording",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q4/earnings-call-recording"
+                        },
+                        {
+                          "label": "Earnings Call Transcript",
+                          "href": "/investors/financial-information/quarterly-results/fy-2024-25/q4/earnings-call-transcript"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Shareholding Pattern",
+              "hasSubmenu": true,
+              "submenuItems": [
+                {
+                  "label": "FY 2024-25",
+                  "hasSubmenu": true,
+                  "submenuItems": [
+                    {
+                      "label": "Q1",
+                      "href": "/investors/financial-information/shareholding-pattern/fy-2024-25/q1"
+                    },
+                    {
+                      "label": "Q2",
+                      "href": "/investors/financial-information/shareholding-pattern/fy-2024-25/q2"
+                    },
+                    {
+                      "label": "Q3",
+                      "href": "/investors/financial-information/shareholding-pattern/fy-2024-25/q3"
+                    },
+                    {
+                      "label": "Q4",
+                      "href": "/investors/financial-information/shareholding-pattern/fy-2024-25/q4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Financials of Subsidiary / JV",
+              "hasSubmenu": true,
+              "submenuItems": [
+                {
+                  "label": "Audited Financials of Joint Venture",
+                  "href": "/investors/financial-information/subsidiary-jv/audited-jv-financials"
+                },
+                {
+                  "label": "Audited Financials of Subsidiary",
+                  "href": "/investors/financial-information/subsidiary-jv/audited-subsidiary-financials"
+                }
+              ]
+            },
+            {
+              "label": "Details of agreements entered into with the media companies / associates",
+              "href": "/investors/financial-information/media-agreements-details"
+            },
+            {
+              "label": "Credit Ratings obtained",
+              "href": "/investors/financial-information/credit-ratings"
+            }
+          ]
+        },
+        {
+          "label": "Corporate Announcement",
+          "hasSubmenu": true,
+          "submenuItems": [
+            {
+              "label": "Notice / Outcome of Board Meetings",
+              "href": "/investors/corporate-announcement/board-meeting-notice-outcome"
+            },
+            {
+              "label": "Announcements under Reg 30",
+              "href": "/investors/corporate-announcement/reg-30-announcements"
+            },
+            {
+              "label": "Stock Exchange Filings",
+              "hasSubmenu": true,
+              "submenuItems": [
+                {
+                  "label": "FY 2024-25",
+                  "hasSubmenu": true,
+                  "submenuItems": [
+                    {
+                      "label": "Closure of Trading Window",
+                      "href": "/investors/corporate-announcement/stock-exchange-filings/fy-2024-25/closure-trading-window"
+                    },
+                    {
+                      "label": "RPT Report",
+                      "href": "/investors/corporate-announcement/stock-exchange-filings/fy-2024-25/rpt-report"
+                    },
+                    {
+                      "label": "Statement of Deviation or Variation",
+                      "href": "/investors/corporate-announcement/stock-exchange-filings/fy-2024-25/deviation-statement"
+                    },
+                    {
+                      "label": "Secretarial Compliance Report",
+                      "href": "/investors/corporate-announcement/stock-exchange-filings/fy-2024-25/secretarial-compliance"
+                    },
+                    {
+                      "label": "Newspaper Advertisements",
+                      "href": "/investors/corporate-announcement/stock-exchange-filings/fy-2024-25/newspaper-ads"
+                    }
+                  ]
+                },
+                {
+                  "label": "FY 2025-26",
+                  "hasSubmenu": true,
+                  "submenuItems": [
+                    {
+                      "label": "Closure of Trading Window",
+                      "href": "/investors/corporate-announcement/stock-exchange-filings/fy-2025-26/closure-trading-window"
+                    },
+                    {
+                      "label": "RPT Report",
+                      "href": "/investors/corporate-announcement/stock-exchange-filings/fy-2025-26/rpt-report"
+                    },
+                    {
+                      "label": "Statement of Deviation or Variation",
+                      "href": "/investors/corporate-announcement/stock-exchange-filings/fy-2025-26/deviation-statement"
+                    },
+                    {
+                      "label": "Secretarial Compliance Report",
+                      "href": "/investors/corporate-announcement/stock-exchange-filings/fy-2025-26/secretarial-compliance"
+                    },
+                    {
+                      "label": "Newspaper Advertisements",
+                      "href": "/investors/corporate-announcement/stock-exchange-filings/fy-2025-26/newspaper-ads"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Investors Meet",
+              "hasSubmenu": true,
+              "submenuItems": [
+                {
+                  "label": "FY 2024-25",
+                  "href": "/investors/corporate-announcement/investors-meet/fy-2024-25"
+                },
+                {
+                  "label": "FY 2025-26",
+                  "href": "/investors/corporate-announcement/investors-meet/fy-2025-26"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Shareholder Information",
+          "hasSubmenu": true,
+          "submenuItems": [
+            {
+              "label": "Factsheet for Investors",
+              "href": "/investors/shareholder-information/factsheet"
+            },
+            {
+              "label": "AGM / EGM / Postal Ballots",
+              "hasSubmenu": true,
+              "submenuItems": [
+                {
+                  "label": "FY 2024-25",
+                  "hasSubmenu": true,
+                  "submenuItems": [
+                    {
+                      "label": "Notice of General Meetings",
+                      "href": "/investors/shareholder-information/agm-egm/fy-2024-25/notice-general-meetings"
+                    },
+                    {
+                      "label": "Notice of Postal Ballot",
+                      "href": "/investors/shareholder-information/agm-egm/fy-2024-25/notice-postal-ballot"
+                    },
+                    {
+                      "label": "E voting Communication",
+                      "href": "/investors/shareholder-information/agm-egm/fy-2024-25/e-voting-communication"
+                    },
+                    {
+                      "label": "Proceedings of General Meeting",
+                      "href": "/investors/shareholder-information/agm-egm/fy-2024-25/proceedings-general-meeting"
+                    },
+                    {
+                      "label": "E Voting Results",
+                      "href": "/investors/shareholder-information/agm-egm/fy-2024-25/e-voting-results"
+                    },
+                    {
+                      "label": "Newspaper Advertisements",
+                      "href": "/investors/shareholder-information/agm-egm/fy-2024-25/newspaper-ads"
+                    }
+                  ]
+                },
+                {
+                  "label": "FY 2025-26",
+                  "hasSubmenu": true,
+                  "submenuItems": [
+                    {
+                      "label": "Notice of General Meetings",
+                      "href": "/investors/shareholder-information/agm-egm/fy-2025-26/notice-general-meetings"
+                    },
+                    {
+                      "label": "Notice of Postal Ballot",
+                      "href": "/investors/shareholder-information/agm-egm/fy-2025-26/notice-postal-ballot"
+                    },
+                    {
+                      "label": "E voting Communication",
+                      "href": "/investors/shareholder-information/agm-egm/fy-2025-26/e-voting-communication"
+                    },
+                    {
+                      "label": "Proceedings of General Meeting",
+                      "href": "/investors/shareholder-information/agm-egm/fy-2025-26/proceedings-general-meeting"
+                    },
+                    {
+                      "label": "E Voting Results",
+                      "href": "/investors/shareholder-information/agm-egm/fy-2025-26/e-voting-results"
+                    },
+                    {
+                      "label": "Newspaper Advertisements",
+                      "href": "/investors/shareholder-information/agm-egm/fy-2025-26/newspaper-ads"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Dividend History",
+              "href": "/investors/shareholder-information/dividend-history"
+            },
+            {
+              "label": "Tax Exemption Documents",
+              "href": "/investors/shareholder-information/tax-exemption-docs"
+            },
+            {
+              "label": "Listing Documents",
+              "href": "/investors/shareholder-information/listing-documents"
+            }
+          ]
+        },
+        {
+          "label": "Annual Report",
+          "hasSubmenu": true,
+          "submenuItems": [
+            {
+              "label": "Annual Report",
+              "hasSubmenu": true,
+              "submenuItems": [
+                {
+                  "label": "FY 2024-25",
+                  "href": "/investors/annual-report/fy-2024-25"
+                }
+              ]
+            },
+            {
+              "label": "Annual Return",
+              "hasSubmenu": true,
+              "submenuItems": [
+                {
+                  "label": "FY 2024-25",
+                  "href": "/investors/annual-report/annual-return/fy-2024-25"
+                },
+                {
+                  "label": "FY 2025-26",
+                  "href": "/investors/annual-report/annual-return/fy-2025-26"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Investors Contact",
+          "hasSubmenu": true,
+          "submenuItems": [
+            {
+              "label": "Contact Details for Investor Grievance",
+              "href": "/investors/contact/investor-grievance"
+            },
+            {
+              "label": "Registrar & Transfer Agents",
+              "href": "/investors/contact/registrar-transfer-agents"
+            },
+            {
+              "label": "Investors FAQ",
+              "href": "/investors/contact/faq"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Careers",
+      "href": "/ca",
+      "hasSubmenu": false
+    }
+  ],
+  "footer": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "About Us",
+      "href": "/about-us"
+    },
+    {
+      "label": "Products & Services",
+      "href": "/products"
+    },
+    {
+      "label": "R&D",
+      "href": "/products/rd-services"
+    },
+    {
+      "label": "Capabilities",
+      "href": "/capabilities"
+    },
+    {
+      "label": "Sustainability",
+      "href": "/sustainability"
+    },
+    {
+      "label": "Investors",
+      "href": "/investors"
+    },
+    {
+      "label": "Careers",
+      "href": "/careers"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ]
+}

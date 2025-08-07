@@ -9,6 +9,7 @@ import {
   DropdownMenuSubTrigger,
   DropdownMenuSubContent,
 } from '@/components/ui/dropdown-menu';
+import { FlatIcon } from '../Flaticon';
 
 interface MenuItem {
   label: string;
@@ -57,8 +58,9 @@ const DrillMenu: React.FC<{ items: MenuItem[] }> = ({ items }) => {
 export const DropdownWithDrill: React.FC<Props> = ({ label, menuItems }) => {
   return (
     <DropdownMenu>
-      <DropdownMenuTrigger className="text-primary-main hover:text-header transition-colors px-4 py-2">
+      <DropdownMenuTrigger className="text-primary-main hover:text-header transition-colors flex items-center gap-1">
         {label}
+        <FlatIcon icon={'angle-small-down'} type={'regular'} className="!text-[20px]" />
       </DropdownMenuTrigger>
       <DropdownMenuContent
         sideOffset={10}

@@ -54,14 +54,14 @@ const Header: React.FC = () => {
             </a>
 
             <nav className="hidden xl:flex items-center gap-9">
-              {investorItem && (
+              {/* {investorItem && (
                 <DropdownWithDrill
                   label={investorItem.label}
                   menuItems={investorItem.submenuItems || []}
                 />
-              )}
+              )} */}
 
-              {/* {(nav.navbar as MenuItem[]).map((item, index) => {
+              {(nav.navbar as MenuItem[]).map((item, index) => {
                 const isInvestor = item.label === 'Investor';
 
                 return (
@@ -77,7 +77,7 @@ const Header: React.FC = () => {
                   >
                     {item.hasSubmenu ? (
                       <div className={`${!isInvestor ? 'relative' : ''}`}>
-                        <button
+                        {/* <button
                           className={`flex items-center gap-1 transition-colors duration-300 py-7 ${
                             isActive(item.href) || isParentActive(item)
                               ? 'text-header font-bold'
@@ -93,16 +93,13 @@ const Header: React.FC = () => {
                             type={'regular'}
                             className="!text-[20px]"
                           />
-                        </button>
+                        </button> */}
 
-                        {isInvestor && activeMegaMenu === 'Investor' ? (
-                          <div
-                            className="absolute top-full left-0 w-full z-50"
-                            onMouseEnter={() => setActiveMegaMenu('Investor')}
-                            onMouseLeave={() => setActiveMegaMenu(null)}
-                          >
-                            <InvestorMegaMenu />
-                          </div>
+                        {isInvestor ? (
+                          <DropdownWithDrill
+                            label={investorItem.label}
+                            menuItems={investorItem.submenuItems || []}
+                          />
                         ) : (
                           !isInvestor && (
                             <div className="absolute top-full left-0 mt-1 w-[360px] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50">
@@ -148,7 +145,7 @@ const Header: React.FC = () => {
                     )}
                   </div>
                 );
-              })} */}
+              })}
             </nav>
 
             <div className="hidden xl:block">

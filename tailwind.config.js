@@ -3,6 +3,9 @@ module.exports = {
 	darkMode: ["class", "class"],
 	theme: {
 		extend: {
+			screens: {
+				'3xl': '1920px',
+			},
 			colors: {
 				primary: {
 					background: 'var(--primary-background)',
@@ -106,11 +109,16 @@ module.exports = {
 					to: {
 						height: '0'
 					}
-				}
+				},
+				'slideUp': {
+					'0%': { opacity: 0, transform: 'translateY(80px)' },
+					'100%': { opacity: 1, transform: 'translateY(0)' },
+				},
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.3s ease-out',
 				'accordion-up': 'accordion-up 0.3s ease-out',
+				'slideUp': 'slideUp 0.8s ease-out forwards',
 			}
 		}
 	},

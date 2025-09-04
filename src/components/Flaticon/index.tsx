@@ -24,7 +24,9 @@ export const FlatIcon = forwardRef<HTMLElement, UiconsProps>(
         return 'tr';
       } else if (type === 'brand') {
         return 'brands';
-      }
+      } else if (type === 'regular-solid') {
+        return 'rs'
+      };
     };
 
     return (

@@ -3,84 +3,84 @@
     "year": "2004",
     "title": "A Humble Beginning with Big Intent",
     "description": "Started as Ami Organics, laying the foundation for a journey driven by science and purpose.",
-    "image": "/images/history-1.png"
+    "image": "/images/history-1.webp"
   },
   {
     "year": "2005",
     "title": "Safety First from Day One",
     "description": "Earned the Gujarat Gas Safety Award for building a strong and responsible HSE culture early on.",
-    "image": "/images/history-2.png"
-  },
-  {
-    "year": "2007",
-    "title": "A Firm Steps into Corporate Ground",
-    "description": "Transitioned to Ami Organics Private Limited, marking formal growth with long-term vision.",
-    "image": "/images/history-1.png"
+    "image": "/images/history-2.webp"
   },
   {
     "year": "2011",
     "title": "Raising Standards in Governance",
     "description": "Implemented Integrated Management System and secured SA 8001 certification for accountability.",
-    "image": "/images/history-2.png"
+    "image": "/images/history-2.webp"
   },
   {
     "year": "2015",
     "title": "Global Vision Takes Shape",
-    "description": "Crossed INR 1,000 mn in revenue and launched a US joint venture, unlocking international markets.",
-    "image": "/images/history-1.png"
+    "description": "Crossed INR 1,000 mn in revenue, marking growth and international expansion.",
+    "image": "/images/history-1.webp"
   },
   {
     "year": "2016",
     "title": "First USFDA Milestone Achieved",
     "description": "Passed the first USFDA inspection and gained DSIR approval for in-house R&D excellence.",
-    "image": "/images/history-2.png"
+    "image": "/images/history-2.webp"
   },
   {
     "year": "2017",
     "title": "Capacity Boost and Global Recognition",
-    "description": "Expanded warehouse to 1,050 MT, achieved INR 1,500 mn turnover, and won key export performance awards.",
-    "image": "/images/history-1.png"
+    "description": "Achieved INR 1,500 mn turnover and won key prestigious export performance awards.",
+    "image": "/images/history-1.webp"
   },
   {
     "year": "2018",
-    "title": "Innovation in the National Spotlight",
-    "description": "Recognised as a Two Star Export House and awarded SAP's Business Innovation honor.",
-    "image": "/images/history-2.png"
+    "title": "Expanding Capacities, Gaining Spotlight",
+    "description": "Recognised as a Two Star Export House with SAP’s Innovation Award and a GMP compliant facility commissioned at Sachin.",
+    "image": "/images/history-2.webp"
   },
   {
     "year": "2019",
     "title": "Safety Systems Redefined",
     "description": "Earned ISO 45001:2018 certification, reinforcing commitment to a safe and resilient workplace.",
-    "image": "/images/history-1.png"
+    "image": "/images/history-1.webp"
   },
   {
     "year": "2020",
     "title": "Investing in Research and Recovery",
-    "description": "Commissioned a new R&D lab and solvent recovery plant at Sachin, with another EIR from USFDA.",
-    "image": "/images/history-2.png"
+    "description": "Commissioned a new R&D lab with another EIR from USFDA for Sachin, Surat Site.",
+    "image": "/images/history-2.webp"
   },
   {
     "year": "2021",
     "title": "A Breakout Year of Expansion and Trust",
     "description": "Acquired Ankleshwar and Jhagadia units, filed new patents, won national awards, and got listed on BSE and NSE.",
-    "image": "/images/history-1.png"
+    "image": "/images/history-1.webp"
   },
   {
     "year": "2022",
-    "title": "Strategic Growth Through Acquisition",
-    "description": "Acquired BABA Fine Chemicals, expanding capabilities in niche chemistries and custom synthesis.",
-    "image": "/images/history-2.png"
+    "title": "Foray into Battery Chemicals",
+    "description": "Indigenously Developed Electrolyte addtives used in batteries for EVs and Energy storage systems.",
+    "image": "/images/history-2.webp"
   },
   {
     "year": "2023",
-    "title": "Building on Sustainability Goals",
-    "description": "Awarded ECOVADIS Bronze for ESG commitment, marking measurable progress in responsible operations.",
-    "image": "/images/history-1.png"
+    "title": "Foray Into Sustainable Growth",
+    "description": "Acquired 55% stake in Baba Fine Chemicals and earned ECOVADIS Bronze for ESG commitment.",
+    "image": "/images/history-1.webp"
   },
   {
     "year": "2024",
     "title": "Sustainability Recognised at the Top",
     "description": "Achieved ECOVADIS Gold rating, validating ACUTAAS’ leadership in environment and governance practices.",
-    "image": "/images/history-2.png"
+    "image": "/images/history-2.webp"
+  },
+  {
+    "year": "2025",
+    "title": "Rebranding, Compliance and Expansion",
+    "description": "Rebranded as Acutaas Chemicals, secured PMDA GMP for Ankleshwar, and formed Indichem Inc. with South Korea’s J & Materials for semiconductor chemicals.",
+    "image": "/images/history-1.webp"
   }
 ]

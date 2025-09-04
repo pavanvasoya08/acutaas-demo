@@ -8,8 +8,8 @@ const IndustriesSection = () => (
       <div className="flex flex-col gap-8 md:gap-12 lg:gap-14">
         <SectionHeader title="Industries We Serve" />
         <SectionIntro
-          title="Tailored solutions for diverse industries"
-          description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled."
+          title="Understanding Markets That Shape the Future"
+          description="We work closely with diverse sectors to align with what matters to them. Our chemistry adapts to specific needs ensuring depth performance and long-term value where it is needed most."
         />
         <div>
           <IndustriesSlider />

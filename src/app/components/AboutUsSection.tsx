@@ -13,16 +13,16 @@ const AboutUsSection: React.FC = () => {
     {
       icon: 'flask',
       type: 'regular',
-      title: 'Lorem Ipsum',
+      title: 'Global Scale',
       description:
-        'text of the printing and typesetting industry. Lorem Ipsum has been the industry standard',
+        'With four advanced facilities and 130+ R&D experts, we deliver precision, quality, and sustainable innovation.',
     },
     {
       icon: 'bio-leaves',
       type: 'regular',
-      title: 'Lorem Ipsum',
+      title: 'Operational Agility',
       description:
-        'text of the printing and typesetting industry. Lorem Ipsum has been the industry standard',
+        'For over two decades, we have created lasting value through science, technology, and sharp execution.',
     },
   ];
 
@@ -32,11 +32,11 @@ const AboutUsSection: React.FC = () => {
         <div className="flex flex-col gap-8 sm:gap-12 lg:gap-14">
           <SectionHeader title="About Us" />
           <p className="text-2xl sm:text-3xl lg:text-[32px] !leading-[1.375] font-medium text-[#231f20] max-w-[1030px]">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-            has been the industry's standard dummy text. ever since the 1500s, when an unknown
-            printer took a galley of type and scrambled it to make a type.
+            From our beginning as Ami Organics in 2004 to our transformation as Acutaas Chemicals in
+            2025, named after the Latin word acutus meaning sharp, we focus on high-performance
+            solutions for pharma, semiconductors, and battery chemicals.
           </p>
-          <div className="grid grid-cols-2 gap-6 items-center sm:grid-cols-2 md:grid-cols-3">
+          <div className="grid grid-cols-1 gap-6 items-center sm:grid-cols-2 md:grid-cols-3">
             {services.map((service, index) => (
               <div key={index}>
                 <div className="bg-[#F99D1C] p-3 sm:p-4 rounded-full inline-block">
@@ -48,7 +48,7 @@ const AboutUsSection: React.FC = () => {
                 <p className="text-[#453A3D] sm:max-w-[250px]">{service.description}</p>
               </div>
             ))}
-            <div className="rounded-2xl overflow-hidden col-span-2 sm:col-span-1">
+            <div className="rounded-2xl overflow-hidden col-span-1">
               <img src="/images/about-section-image.png" alt="About Us" />
             </div>
           </div>

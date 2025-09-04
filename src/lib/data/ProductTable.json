@@ -1,0 +1,362 @@
+[
+  {
+    "apiName": "Abemaciclib Intermediate",
+    "intermediates": [
+      {
+        "name": "4-fluoro-1-isopropyl-2-methyl-6-(4,4,5,5-tetramethyl- 1,3,2- dioxaborolan-2-yl)-1H-benzo[d] imidazole",
+        "casNo": "1231930-37-2",
+        "stage": "R&D"
+      },
+      {
+        "name": "5-(4-ethylpiperazin-1-yl methyl) pyridin-2-yl amine",
+        "casNo": "1180132-17-5",
+        "stage": "R&D"
+      }
+    ]
+  },
+  {
+    "apiName": "Acalabrutinib Intermediate",
+    "intermediates": [
+      {
+        "name": "(3-Chloropyrazin-2-yl) methanamine hydrochloride",
+        "casNo": "939412-86-9",
+        "stage": "Commercial"
+      },
+      {
+        "name": "(2S)-2-(8-amino-1-bromoimidazo[1,5-a] pyrazin-3-yl)-1-Pyrrolidine carboxylic acid phenyl methyl ester",
+        "casNo": "1420478-88-1",
+        "stage": "Commercial"
+      },
+      {
+        "name": "4-(Pyridin-2-yl-aminocarbonyl) benzene boronic acid",
+        "casNo": "850568-25-1",
+        "stage": "Pilot"
+      },
+      {
+        "name": "N-(Benzyloxy carbonyl)-L-Proline",
+        "casNo": "1148-11-4",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Afatinib Intermediate",
+    "intermediates": [
+      {
+        "name": "Trans 4-Dimethylamino crotonic acid hydrochloride",
+        "casNo": "848133-35-7",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Apalutamide Intermediate",
+    "intermediates": [
+      {
+        "name": "4-Amino-2-fluoro-N-methyl-benzamide",
+        "casNo": "915087-25-1",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Abemaciclib Intermediate",
+    "intermediates": [
+      {
+        "name": "4-fluoro-1-isopropyl-2-methyl-6-(4,4,5,5-tetramethyl- 1,3,2- dioxaborolan-2-yl)-1H-benzo[d] imidazole",
+        "casNo": "1231930-37-2",
+        "stage": "R&D"
+      },
+      {
+        "name": "5-(4-ethylpiperazin-1-yl methyl) pyridin-2-yl amine",
+        "casNo": "1180132-17-5",
+        "stage": "R&D"
+      }
+    ]
+  },
+  {
+    "apiName": "Acalabrutinib Intermediate",
+    "intermediates": [
+      {
+        "name": "(3-Chloropyrazin-2-yl) methanamine hydrochloride",
+        "casNo": "939412-86-9",
+        "stage": "Commercial"
+      },
+      {
+        "name": "(2S)-2-(8-amino-1-bromoimidazo[1,5-a] pyrazin-3-yl)-1-Pyrrolidine carboxylic acid phenyl methyl ester",
+        "casNo": "1420478-88-1",
+        "stage": "Commercial"
+      },
+      {
+        "name": "4-(Pyridin-2-yl-aminocarbonyl) benzene boronic acid",
+        "casNo": "850568-25-1",
+        "stage": "Pilot"
+      },
+      {
+        "name": "N-(Benzyloxy carbonyl)-L-Proline",
+        "casNo": "1148-11-4",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Afatinib Intermediate",
+    "intermediates": [
+      {
+        "name": "Trans 4-Dimethylamino crotonic acid hydrochloride",
+        "casNo": "848133-35-7",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Apalutamide Intermediate",
+    "intermediates": [
+      {
+        "name": "4-Amino-2-fluoro-N-methyl-benzamide",
+        "casNo": "915087-25-1",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Abemaciclib Intermediate",
+    "intermediates": [
+      {
+        "name": "4-fluoro-1-isopropyl-2-methyl-6-(4,4,5,5-tetramethyl- 1,3,2- dioxaborolan-2-yl)-1H-benzo[d] imidazole",
+        "casNo": "1231930-37-2",
+        "stage": "R&D"
+      },
+      {
+        "name": "5-(4-ethylpiperazin-1-yl methyl) pyridin-2-yl amine",
+        "casNo": "1180132-17-5",
+        "stage": "R&D"
+      }
+    ]
+  },
+  {
+    "apiName": "Acalabrutinib Intermediate",
+    "intermediates": [
+      {
+        "name": "(3-Chloropyrazin-2-yl) methanamine hydrochloride",
+        "casNo": "939412-86-9",
+        "stage": "Commercial"
+      },
+      {
+        "name": "(2S)-2-(8-amino-1-bromoimidazo[1,5-a] pyrazin-3-yl)-1-Pyrrolidine carboxylic acid phenyl methyl ester",
+        "casNo": "1420478-88-1",
+        "stage": "Commercial"
+      },
+      {
+        "name": "4-(Pyridin-2-yl-aminocarbonyl) benzene boronic acid",
+        "casNo": "850568-25-1",
+        "stage": "Pilot"
+      },
+      {
+        "name": "N-(Benzyloxy carbonyl)-L-Proline",
+        "casNo": "1148-11-4",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Afatinib Intermediate",
+    "intermediates": [
+      {
+        "name": "Trans 4-Dimethylamino crotonic acid hydrochloride",
+        "casNo": "848133-35-7",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Apalutamide Intermediate",
+    "intermediates": [
+      {
+        "name": "4-Amino-2-fluoro-N-methyl-benzamide",
+        "casNo": "915087-25-1",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Abemaciclib Intermediate",
+    "intermediates": [
+      {
+        "name": "4-fluoro-1-isopropyl-2-methyl-6-(4,4,5,5-tetramethyl- 1,3,2- dioxaborolan-2-yl)-1H-benzo[d] imidazole",
+        "casNo": "1231930-37-2",
+        "stage": "R&D"
+      },
+      {
+        "name": "5-(4-ethylpiperazin-1-yl methyl) pyridin-2-yl amine",
+        "casNo": "1180132-17-5",
+        "stage": "R&D"
+      }
+    ]
+  },
+  {
+    "apiName": "Acalabrutinib Intermediate",
+    "intermediates": [
+      {
+        "name": "(3-Chloropyrazin-2-yl) methanamine hydrochloride",
+        "casNo": "939412-86-9",
+        "stage": "Commercial"
+      },
+      {
+        "name": "(2S)-2-(8-amino-1-bromoimidazo[1,5-a] pyrazin-3-yl)-1-Pyrrolidine carboxylic acid phenyl methyl ester",
+        "casNo": "1420478-88-1",
+        "stage": "Commercial"
+      },
+      {
+        "name": "4-(Pyridin-2-yl-aminocarbonyl) benzene boronic acid",
+        "casNo": "850568-25-1",
+        "stage": "Pilot"
+      },
+      {
+        "name": "N-(Benzyloxy carbonyl)-L-Proline",
+        "casNo": "1148-11-4",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Afatinib Intermediate",
+    "intermediates": [
+      {
+        "name": "Trans 4-Dimethylamino crotonic acid hydrochloride",
+        "casNo": "848133-35-7",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Apalutamide Intermediate",
+    "intermediates": [
+      {
+        "name": "4-Amino-2-fluoro-N-methyl-benzamide",
+        "casNo": "915087-25-1",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Abemaciclib Intermediate",
+    "intermediates": [
+      {
+        "name": "4-fluoro-1-isopropyl-2-methyl-6-(4,4,5,5-tetramethyl- 1,3,2- dioxaborolan-2-yl)-1H-benzo[d] imidazole",
+        "casNo": "1231930-37-2",
+        "stage": "R&D"
+      },
+      {
+        "name": "5-(4-ethylpiperazin-1-yl methyl) pyridin-2-yl amine",
+        "casNo": "1180132-17-5",
+        "stage": "R&D"
+      }
+    ]
+  },
+  {
+    "apiName": "Acalabrutinib Intermediate",
+    "intermediates": [
+      {
+        "name": "(3-Chloropyrazin-2-yl) methanamine hydrochloride",
+        "casNo": "939412-86-9",
+        "stage": "Commercial"
+      },
+      {
+        "name": "(2S)-2-(8-amino-1-bromoimidazo[1,5-a] pyrazin-3-yl)-1-Pyrrolidine carboxylic acid phenyl methyl ester",
+        "casNo": "1420478-88-1",
+        "stage": "Commercial"
+      },
+      {
+        "name": "4-(Pyridin-2-yl-aminocarbonyl) benzene boronic acid",
+        "casNo": "850568-25-1",
+        "stage": "Pilot"
+      },
+      {
+        "name": "N-(Benzyloxy carbonyl)-L-Proline",
+        "casNo": "1148-11-4",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Afatinib Intermediate",
+    "intermediates": [
+      {
+        "name": "Trans 4-Dimethylamino crotonic acid hydrochloride",
+        "casNo": "848133-35-7",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Apalutamide Intermediate",
+    "intermediates": [
+      {
+        "name": "4-Amino-2-fluoro-N-methyl-benzamide",
+        "casNo": "915087-25-1",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Abemaciclib Intermediate",
+    "intermediates": [
+      {
+        "name": "4-fluoro-1-isopropyl-2-methyl-6-(4,4,5,5-tetramethyl- 1,3,2- dioxaborolan-2-yl)-1H-benzo[d] imidazole",
+        "casNo": "1231930-37-2",
+        "stage": "R&D"
+      },
+      {
+        "name": "5-(4-ethylpiperazin-1-yl methyl) pyridin-2-yl amine",
+        "casNo": "1180132-17-5",
+        "stage": "R&D"
+      }
+    ]
+  },
+  {
+    "apiName": "Acalabrutinib Intermediate",
+    "intermediates": [
+      {
+        "name": "(3-Chloropyrazin-2-yl) methanamine hydrochloride",
+        "casNo": "939412-86-9",
+        "stage": "Commercial"
+      },
+      {
+        "name": "(2S)-2-(8-amino-1-bromoimidazo[1,5-a] pyrazin-3-yl)-1-Pyrrolidine carboxylic acid phenyl methyl ester",
+        "casNo": "1420478-88-1",
+        "stage": "Commercial"
+      },
+      {
+        "name": "4-(Pyridin-2-yl-aminocarbonyl) benzene boronic acid",
+        "casNo": "850568-25-1",
+        "stage": "Pilot"
+      },
+      {
+        "name": "N-(Benzyloxy carbonyl)-L-Proline",
+        "casNo": "1148-11-4",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Afatinib Intermediate",
+    "intermediates": [
+      {
+        "name": "Trans 4-Dimethylamino crotonic acid hydrochloride",
+        "casNo": "848133-35-7",
+        "stage": "Commercial"
+      }
+    ]
+  },
+  {
+    "apiName": "Apalutamide Intermediate",
+    "intermediates": [
+      {
+        "name": "4-Amino-2-fluoro-N-methyl-benzamide",
+        "casNo": "915087-25-1",
+        "stage": "Commercial"
+      }
+    ]
+  }
+]

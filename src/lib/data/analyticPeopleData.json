@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "description": "Lorem Ipsum is simply dummy description of the the.",
+    "author": "Robert R. Chumley",
+    "role": "Simply dummy description",
+    "image": "/images/user-1.png"
+  },
+  {
+    "id": 2,
+    "description": "This platform has helped me streamline my workflow and improved my productivity drastically. Highly recommended!",
+    "author": "Sophia L. Martinez",
+    "role": "Product Designer",
+    "image": "/images/user-2.png"
+  },
+  {
+    "id": 3,
+    "description": "Great customer support and an easy-to-use interface. It really made our project management smooth and effective.",
+    "author": "James T. Walker",
+    "role": "Project Manager",
+    "image": "/images/user-3.png"
+  },
+  {
+    "id": 4,
+    "description": "I’ve tried many tools before, but this one stands out. Reliable, fast, and extremely useful for our team.",
+    "author": "Emily K. Johnson",
+    "role": "Software Engineer",
+    "image": "/images/user-4.png"
+  },
+  {
+    "id": 5,
+    "description": "The best investment we’ve made this year. It saved us hours of repetitive work and improved team collaboration.",
+    "author": "Daniel R. Carter",
+    "role": "Marketing Lead",
+    "image": "/images/user-5.png"
+  },
+
+    {
+    "id": 1,
+    "description": "Lorem Ipsum is simply dummy description of the the industry's standard dummy description ever since the 1500s.",
+    "author": "Robert R. Chumley",
+    "role": "Simply dummy description",
+    "image": "/images/user-1.png"
+  },
+  {
+    "id": 2,
+    "description": "This platform has helped me streamline my workflow and improved my productivity drastically. Highly recommended!",
+    "author": "Sophia L. Martinez",
+    "role": "Product Designer",
+    "image": "/images/user-2.png"
+  },
+  {
+    "id": 3,
+    "description": "Great customer support and an easy-to-use interface. It really made our project management smooth and effective.",
+    "author": "James T. Walker",
+    "role": "Project Manager",
+    "image": "/images/user-3.png"
+  },
+  {
+    "id": 4,
+    "description": "I’ve tried many tools before, but this one stands out. Reliable, fast, and extremely useful for our team.",
+    "author": "Emily K. Johnson",
+    "role": "Software Engineer",
+    "image": "/images/user-4.png"
+  },
+  {
+    "id": 5,
+    "description": "The best investment we’ve made this year. It saved us hours of repetitive work and improved team collaboration.",
+    "author": "Daniel R. Carter",
+    "role": "Marketing Lead",
+    "image": "/images/user-5.png"
+  }
+,
+    {
+    "id": 1,
+    "description": "Lorem Ipsum is simply dummy description of the the industry's standard dummy description ever since the 1500s.",
+    "author": "Robert R. Chumley",
+    "role": "Simply dummy description",
+    "image": "/images/user-1.png"
+  },
+  {
+    "id": 2,
+    "description": "This platform has helped me streamline my workflow and improved my productivity drastically. Highly recommended!",
+    "author": "Sophia L. Martinez",
+    "role": "Product Designer",
+    "image": "/images/user-2.png"
+  },
+  {
+    "id": 3,
+    "description": "Great customer support and an easy-to-use interface. It really made our project management smooth and effective.",
+    "author": "James T. Walker",
+    "role": "Project Manager",
+    "image": "/images/user-3.png"
+  },
+  {
+    "id": 4,
+    "description": "I’ve tried many tools before, but this one stands out. Reliable, fast, and extremely useful for our team.",
+    "author": "Emily K. Johnson",
+    "role": "Software Engineer",
+    "image": "/images/user-4.png"
+  },
+  {
+    "id": 5,
+    "description": "The best investment we’ve made this year. It saved us hours of repetitive work and improved team collaboration.",
+    "author": "Daniel R. Carter",
+    "role": "Marketing Lead",
+    "image": "/images/user-5.png"
+  }
+,
+    {
+    "id": 1,
+    "description": "Lorem Ipsum is simply dummy description of the the industry's standard dummy description ever since the 1500s.",
+    "author": "Robert R. Chumley",
+    "role": "Simply dummy description",
+    "image": "/images/user-1.png"
+  },
+  {
+    "id": 2,
+    "description": "This platform has helped me streamline my workflow and improved my productivity drastically. Highly recommended!",
+    "author": "Sophia L. Martinez",
+    "role": "Product Designer",
+    "image": "/images/user-2.png"
+  },
+  {
+    "id": 3,
+    "description": "Great customer support and an easy-to-use interface. It really made our project management smooth and effective.",
+    "author": "James T. Walker",
+    "role": "Project Manager",
+    "image": "/images/user-3.png"
+  },
+  {
+    "id": 4,
+    "description": "I’ve tried many tools before, but this one stands out. Reliable, fast, and extremely useful for our team.",
+    "author": "Emily K. Johnson",
+    "role": "Software Engineer",
+    "image": "/images/user-4.png"
+  },
+  {
+    "id": 5,
+    "description": "The best investment we’ve made this year. It saved us hours of repetitive work and improved team collaboration.",
+    "author": "Daniel R. Carter",
+    "role": "Marketing Lead",
+    "image": "/images/user-5.png"
+  }
+]

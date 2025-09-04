@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Dr. Ajit Choubey",
+    "position": "Technical President",
+    "image": "/images/core-team-1.png",
+    "description": "Dr. Ajit Choubey, President–Technical, has been with the company since 2009. He holds a Ph.D. in Chemistry and leads technical innovation and development.",
+    "socialLinks": [
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/"
+      },
+      {
+        "platform": "Linkedin",
+        "url": "https://www.linkedin.com/"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://www.linkedin.com/"
+      }
+    ]
+  },
+  {
+    "name": "Hemant Patel",
+    "position": "General HR Manager",
+    "image": "/images/core-team-1.png",
+    "description": "Hemant Patel, GM–HR, holds an MLM from Madurai Kamaraj University and a PG Diploma in PM & IR. He plays a key role in HR strategy and people management.",
+    "socialLinks": [
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/"
+      },
+      {
+        "platform": "Linkedin",
+        "url": "https://www.linkedin.com/"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://www.linkedin.com/"
+      }
+    ]
+  },
+  {
+    "name": "Gaurav Bhandari",
+    "position": "Senior Manager- Marketing",
+    "image": "/images/core-team-1.png",
+    "description": "Gaurav Bhandari, Sr. Manager–Marketing, joined in 2015. He holds a B.Tech in Bioinformatics and a PGDM from ITM Business School, driving brand growth.",
+    "socialLinks": [
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/"
+      },
+      {
+        "platform": "Linkedin",
+        "url": "https://www.linkedin.com/"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://www.linkedin.com/"
+      }
+    ]
+  },
+  {
+    "name": "Ekta Kumari Srivastava",
+    "position": "Company Secretary & Compliance Officer",
+    "image": "/images/core-team-1.png",
+    "description": "Ekta Srivastava, Company Secretary & Compliance Officer since Feb 2021, holds a B.Com from Patna University and is an associate member of ICSI.",
+    "socialLinks": [
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/"
+      },
+      {
+        "platform": "Linkedin",
+        "url": "https://www.linkedin.com/"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://www.linkedin.com/"
+      }
+    ]
+  },
+  {
+    "name": "Bhavin Shah",
+    "position": "Chief Financial Officer",
+    "image": "/images/core-team-1.png",
+    "description": "Bhavin Shah, CFO since June 2022, has 20+ years’ experience in finance and is a CA with a B.Com from Mumbai University. He also serves on the Risk Committee.",
+    "socialLinks": [
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/"
+      },
+      {
+        "platform": "Linkedin",
+        "url": "https://www.linkedin.com/"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://www.linkedin.com/"
+      }
+    ]
+  }
+]

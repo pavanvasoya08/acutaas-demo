@@ -11,12 +11,11 @@ const RecentNewsSection: React.FC = () => {
           <div className="flex items-center gap-5 flex-col justify-between md:flex-row md:items-end">
             <div className="flex flex-col gap-5 text-center md:text-left max-w-[792px]">
               <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-[40px] font-semibold leading-snug">
-                Simply Dummy Text
+                In the Spotlight
               </h2>
               <p className="text-[#453A3D]">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                Ipsum has been the industry's standard dummy text ever since the 1500s, when an
-                unknown printer took a galley of type and scrambled.
+                Stay updated with how we are growing, evolving, and building value. From business
+                moves to recognition, this is where you can track our progress and momentum.
               </p>
             </div>
             <div className="text-[#B03B23] flex items-center font-extrabold whitespace-nowrap text-base gap-2 lg:text-xl lg:gap-4">

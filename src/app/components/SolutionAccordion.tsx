@@ -22,7 +22,7 @@ const SolutionAccordion: React.FC = () => {
   const accordionItems: AccordionItemProps[] = [
     {
       value: 'item-1',
-      trigger: 'Lorem Ipsum',
+      trigger: 'Flow Chemistry',
       image: '/images/our-solution-image.png',
       icon: (
         <svg
@@ -40,11 +40,11 @@ const SolutionAccordion: React.FC = () => {
         </svg>
       ),
       content:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        'Our flow chemistry capabilities enable safer, faster, and more scalable operations by reducing reaction time, improving efficiency and providing high control across stages from development to commercial production.',
     },
     {
       value: 'item-2',
-      trigger: 'Simply Dummy Text',
+      trigger: 'Green Chemistry',
       image: '/images/our-solution-image.png',
       icon: (
         <svg
@@ -60,11 +60,11 @@ const SolutionAccordion: React.FC = () => {
         </svg>
       ),
       content:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        'We focus on cleaner chemistry platforms by minimizing waste using safer inputs, improving processes, and building sustainable pathways that lower environmental load without compromising performance or technical precision.',
     },
     {
       value: 'item-3',
-      trigger: 'Contrary to popular belief',
+      trigger: 'Chiral Chemistry',
       image: '/images/our-solution-image.png',
       icon: (
         <svg
@@ -77,11 +77,11 @@ const SolutionAccordion: React.FC = () => {
         </svg>
       ),
       content:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        'Our teams specialize in enantioselective synthesis supported by strong IP understanding and efficient route design, helping meet regulatory needs and purity goals across high-value applications.',
     },
     {
       value: 'item-4',
-      trigger: 'There are many variations',
+      trigger: 'Analytical Development',
       image: '/images/our-solution-image.png',
       icon: (
         <svg
@@ -96,7 +96,7 @@ const SolutionAccordion: React.FC = () => {
         </svg>
       ),
       content:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        'We offer analytical support from early method development to validation helping ensure integrity, consistency, and clarity at every stage of product development and regulatory submission.',
     },
   ];
 
@@ -120,7 +120,7 @@ const SolutionAccordion: React.FC = () => {
           </AccordionItem>
         ))}
       </Accordion>
-      <div className="rounded-2xl overflow-hidden max-w-[600px] mx-auto lg:max-w-full">
+      <div className="hidden lg:block rounded-2xl overflow-hidden max-w-[600px] mx-auto lg:max-w-full">
         <img src={currentImage} alt="Solution Visual" />
       </div>
     </>

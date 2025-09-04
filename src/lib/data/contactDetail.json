@@ -1,0 +1,78 @@
+{
+  "sections": [
+    {
+      "title": "Contact Info",
+      "contacts": [
+        {
+          "type": "Phone",
+          "icon": "phone-call",
+          "items": [
+            {
+              "label": "+91 75730 15366",
+              "href": "tel:+917573015366"
+            },
+            {
+              "label": "+91 72279 77744",
+              "href": "tel:+917227977744"
+            }
+          ]
+        },
+        {
+          "type": "Mail",
+          "icon": "envelope",
+          "items": [
+            {
+              "label": "info@acutaas.com",
+              "href": "mailto:info@acutaas.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Purchase Department",
+      "contacts": [
+        {
+          "type": "Mail",
+          "icon": "envelope",
+          "items": [
+            {
+              "label": "purchase@acutaas.com",
+              "href": "mailto:purchase@acutaas.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CSR Committee",
+      "contacts": [
+        {
+          "type": "Mail",
+          "icon": "envelope",
+          "items": [
+            {
+              "label": "cs@acutaas.com",
+              "href": "mailto:cs@acutaas.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "HR Department",
+      "contacts": [
+        {
+          "type": "Mail",
+          "icon": "envelope",
+          "items": [
+            {
+              "label": "career@acutaas.com",
+              "href": "mailto:career@acutaas.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

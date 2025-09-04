@@ -44,7 +44,7 @@ const AccordionTrigger = React.forwardRef<HTMLButtonElement, AccordionTriggerPro
         <FlatIcon
           icon="plus"
           size={20}
-          className="shrink-0 transition-transform duration-300 !leading-[1] !text-base lg:!text-xl"
+          className="shrink-0 transition-transform duration-300 !leading-[1] !text-base lg:!text-xl 3xl:!text-2xl"
         />
       </AccordionPrimitive.Trigger>
     </AccordionPrimitive.Header>

@@ -36,8 +36,8 @@ const Button: React.FC<ButtonProps & React.ButtonHTMLAttributes<HTMLButtonElemen
 
   const sizes = {
     xs: 'px-2 py-1 text-xs sm:px-2.5 sm:py-1.5 sm:text-sm md:px-3 md:py-2 lg:px-3.5 lg:py-2.5',
-    sm: 'px-2.5 py-1.5 text-sm sm:px-3.5 sm:py-2 sm:text-base md:px-4 md:py-2.5 lg:px-5 lg:py-3',
-    md: 'px-3 py-2 text-sm sm:px-4 sm:py-2.5 sm:text-base md:text-base lg:px-[43px] lg:py-[14px]',
+    sm: 'px-2.5 py-1.5 text-sm sm:px-3.5 sm:py-2 sm:text-base 3xl:text-xl md:px-4 md:py-2.5 lg:px-5 lg:py-3',
+    md: 'px-3 py-2 text-sm sm:px-4 sm:py-2.5 sm:text-base md:text-base 3xl:text-xl lg:px-[43px] lg:py-[14px]',
     lg: 'px-4 py-2.5 text-base sm:px-5 sm:py-3 sm:text-lg md:px-6 md:py-3.5 md:text-lg lg:px-7 lg:py-4 lg:text-xl',
     xl: 'px-5 py-3 text-lg sm:px-6 sm:py-4 sm:text-xl md:px-7 md:py-4.5 md:text-xl lg:px-8 lg:py-5 lg:text-2xl',
   };

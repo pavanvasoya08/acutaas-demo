@@ -62,7 +62,9 @@ const InvestorMegaMenu = () => {
       <div className="main-container">
         <div className="py-6">
           <div className="flex flex-wrap items-end gap-1">
-            <span className="text-[#231F20] text-2xl !leading-none font-semibold">Investor</span>
+            <Link href="/investor" className="text-[#231F20] text-2xl !leading-none font-semibold">
+              Investor
+            </Link>
             {menuPath.map((label, index) => (
               <React.Fragment key={label}>
                 <span

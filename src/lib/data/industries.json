@@ -1,52 +1,37 @@
 [
   {
     "icon": "flask",
-    "title": "Lorem Ipsum",
-    "description": "text of the printing and typesetting industry. Lorem Ipsum has been the industry standard"
+    "title": "Pharmaceuticals",
+    "description": "Built for precision reliability and strict global regulatory alignment."
   },
   {
     "icon": "flask",
-    "title": "Lorem Ipsum",
-    "description": "text of the printing and typesetting industry. Lorem Ipsum has been the industry standard"
+    "title": "Semiconductor Chemicals",
+    "description": "High purity chemicals with PPB purity."
   },
   {
     "icon": "flask",
-    "title": "Lorem Ipsum",
-    "description": "text of the printing and typesetting industry. Lorem Ipsum has been the industry standard"
+    "title": "Battery Chemicals",
+    "description": "High grade battery materials for EV and energy storage systems."
   },
   {
     "icon": "flask",
-    "title": "Lorem Ipsum",
-    "description": "text of the printing and typesetting industry. Lorem Ipsum has been the industry standard"
+    "title": "Veterinary",
+    "description": "Supporting safe therapeutic inputs with control and care at every step."
   },
   {
     "icon": "flask",
-    "title": "Lorem Ipsum",
-    "description": "text of the printing and typesetting industry. Lorem Ipsum has been the industry standard"
+    "title": "Agrochemicals",
+    "description": "Enabling smart crop protection through advanced intermediate innovation."
   },
   {
     "icon": "flask",
-    "title": "Lorem Ipsum",
-    "description": "text of the printing and typesetting industry. Lorem Ipsum has been the industry standard"
+    "title": "Cosmetics and Personal Care",
+    "description": "Delivering purity and performance for formulation sensitive applications."
   },
   {
     "icon": "flask",
-    "title": "Lorem Ipsum",
-    "description": "text of the printing and typesetting industry. Lorem Ipsum has been the industry standard"
-  },
-  {
-    "icon": "flask",
-    "title": "Lorem Ipsum",
-    "description": "text of the printing and typesetting industry. Lorem Ipsum has been the industry standard"
-  },
-  {
-    "icon": "flask",
-    "title": "Lorem Ipsum",
-    "description": "text of the printing and typesetting industry. Lorem Ipsum has been the industry standard"
-  },
-  {
-    "icon": "flask",
-    "title": "Lorem Ipsum",
-    "description": "text of the printing and typesetting industry. Lorem Ipsum has been the industry standard"
+    "title": "Polymers and Electronics",
+    "description": "Powering modern materials with chemistry designed for precision and scale."
   }
 ]

@@ -1,12 +1,12 @@
 'use client';
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Button from '../ui/Button';
 import { FlatIcon } from '../Flaticon';
 import nav from '@/lib/data/navigation.json';
 import { usePathname } from 'next/navigation';
 import Link from 'next/link';
 import InvestorMegaMenu from './InvestorMegaMenu';
-import { DropdownWithDrill } from './InvestorDropdown';
+import Navbar from './InvestorDropdown';
 interface SubmenuItem {
   label: string;
   href: string;
@@ -24,6 +24,9 @@ const Header: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [activeMegaMenu, setActiveMegaMenu] = useState<string | null>(null);
   const [activeSubmenu, setActiveSubmenu] = useState<string | null>(null);
+  useEffect(() => {
+    setIsMenuOpen(false);
+  }, [pathname]);
 
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen);
@@ -49,7 +52,7 @@ const Header: React.FC = () => {
       <div className="relative z-10">
         <div className="main-container header-container">
           <div className="flex justify-between items-center">
-            <Link href="/" className="flex-shrink-0 w-full max-w-[176px]">
+            <Link href="/" className="flex-shrink-0 w-full max-w-[176px] 3xl:max-w-[234px]">
               <img src="/images/acutaas-website-logo.svg" alt="Acutaas Logo" />
             </Link>
 
@@ -60,8 +63,8 @@ const Header: React.FC = () => {
                   menuItems={investorItem.submenuItems || []}
                 />
               )} */}
-
-              {(nav.navbar as MenuItem[]).map((item, index) => {
+              <Navbar />
+              {/* {(nav.navbar as MenuItem[]).map((item, index) => {
                 const isInvestor = item.label === 'Investor';
 
                 return (
@@ -108,7 +111,7 @@ const Header: React.FC = () => {
                             <div className="absolute top-full left-0 mt-1 w-[360px] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50">
                               <ul
                                 role="menu"
-                                className="border border-[#BCB2B2] bg-white rounded-2xl"
+                                className="border border-[#BCB2B2] bg-white rounded-2xl overflow-hidden"
                               >
                                 {item.submenuItems?.map((subItem, subIndex) => (
                                   <li
@@ -148,13 +151,15 @@ const Header: React.FC = () => {
                     )}
                   </div>
                 );
-              })}
+              })} */}
             </nav>
 
             <div className="hidden xl:block">
-              <Button variant="primary" size="sm">
-                Contact Us
-              </Button>
+              <Link href="/contact-us">
+                <Button variant="primary" size="sm">
+                  Contact Us
+                </Button>
+              </Link>
             </div>
 
             <button
@@ -240,9 +245,11 @@ const Header: React.FC = () => {
               ))}
 
               <div className="px-4 pt-4">
-                <Button variant="primary" size="md" fullWidth className="text-sm font-medium">
-                  Contact Us
-                </Button>
+                <Link href="/contact-us">
+                  <Button variant="primary" size="md" fullWidth className="text-sm font-medium">
+                    Contact Us
+                  </Button>
+                </Link>
               </div>
             </div>
           </nav>
